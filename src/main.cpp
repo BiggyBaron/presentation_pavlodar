@@ -8,7 +8,7 @@
 char ssid[] = "Cleverest";     // Имя ВайФай
 char password[] = "Robot1x1sTheBest";   // Пароль
 
-#define BOTtoken "2055112763:AAFcfBMBrJztaQ2cMw2nm6Q_ly5VxkcVuyI"  // Bot Token (получите у Botfather)
+#define BOTtoken "XXXX:XXXXXXXXXXX"  // Bot Token (получите у Botfather)
 String botname = "@PresentationPavlodar_bot"; // Напишите имя бота
 
 
